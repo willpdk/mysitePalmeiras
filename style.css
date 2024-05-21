@@ -1,6 +1,6 @@
 body{
-    background-color: #1E1E1E;
-    color:#FFFF; 
+    background-color: hsl(0, 0%, 0%);
+    color:#ffffff; 
     font-family: 'Times New Roman';
 }
 .conteudo-principal { 
@@ -19,8 +19,8 @@ body{
 }
 .botao { 
     font-family: 'Times New Roman', Times, serif;
-    background-color: green;
-    color: yellow; 
+    background-color: rgba(26, 146, 194, 0.801);
+    color: rgb(255, 255, 255); 
     display: flex;
     justify-content: center;
     padding: 1em;
